@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAutoNotification</string>
+
+    <string name="FCM_PREF">com.example.user.testfirebasenotifications.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.user.testfirebasenotifications.fcm_token</string>
+
+</resources>
