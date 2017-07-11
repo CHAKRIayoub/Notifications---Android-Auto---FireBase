@@ -1,8 +1,4 @@
 # AndroidAutoNotification
-Android Auto Simple Notification App
+Android Auto Simple Notification App using firebase 
 
 
-
-# vidéo
-
-https://www.youtube.com/watch?v=q18BWL66_GQ
